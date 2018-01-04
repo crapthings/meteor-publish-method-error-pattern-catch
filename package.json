@@ -1,0 +1,12 @@
+{
+  "name": "meteor-error-test",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel-runtime": "^6.26.0",
+    "meteor-node-stubs": "^0.3.2"
+  }
+}
